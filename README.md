@@ -8,6 +8,10 @@ This is a web site for a co-op in Manhattan. Nothing special, just relates the h
 
 The site uses HTML, CSS, JavaScript.
 
+## Optimizations
+
+Maybe a directory of residents would be cool, or a more up-to-date information on the current residens.
+
 ## Lessons learned
 
 This uses an old version of font awesome, which still works, but font awesome packs are more individualized now.
