@@ -10,7 +10,7 @@ The site uses HTML, CSS, JavaScript.
 
 ## Optimizations
 
-Maybe a directory of residents would be cool, or a more up-to-date information on the current residens.
+Maybe a directory of residents would be cool, or a more up-to-date information on the current residents.
 
 ## Lessons learned
 
